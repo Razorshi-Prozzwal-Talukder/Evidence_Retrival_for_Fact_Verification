@@ -1,4 +1,4 @@
-# README FILE
+# Evidence Retrival for Fact Verification ( Information Retrieval Project ) 
 A basic search engine employing concepts of IR
 
 Download the databse of articles from Wiki in txt files(not included due to large size), a 30MB archive contains appx 70k articles.
